@@ -18,4 +18,4 @@ Enter the URL for your website in the “Comments” textbox. The URL for your w
 After you have uploaded the attachment AND entered the URL for your website, click the “Submit” button.
 
 
-View directions [here](https://github.com/paulageronimo/public_html/blob/1492ea28fed24f37c6d9b44955dc94a6316a7565/HTML%20Directions-1%20-%20Tagged.pdf)
+**View directions [here](https://github.com/paulageronimo/public_html/blob/1492ea28fed24f37c6d9b44955dc94a6316a7565/HTML%20Directions-1%20-%20Tagged.pdf)**
