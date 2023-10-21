@@ -1,5 +1,6 @@
-# public_html
-istm 209
+# ISTM 209 - 599 : Group 133
+**HTML Project, public_html folder**
+**Members:** Ben Brady, Paula Geronimo, Vivian Sumbera, David Offill
 
 ## Overview
 For this assignment, you will create a website that you can use to market a made-up business. This assignment will allow you to build a basic understanding of creating and publishing a web page while learning to work in a group. Part of designing and implementing a business website is making decisions about what content you want to publish.
