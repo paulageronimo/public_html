@@ -26,3 +26,5 @@ This assignment due date is listed on the syllabus but is available a few weeks 
 
 
 **View directions [here](https://github.com/paulageronimo/public_html/blob/1492ea28fed24f37c6d9b44955dc94a6316a7565/HTML%20Directions-1%20-%20Tagged.pdf)**
+
+**View Progress Document [here](https://docs.google.com/document/d/e/2PACX-1vRl2E--wCKF_275aOTTmFgya76Q_-Yn5VzESCotZOrdmF2mR7IM_UDtPyQCisqjiwJJWPmVXifLve40/pub)**
